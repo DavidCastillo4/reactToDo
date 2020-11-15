@@ -21,7 +21,7 @@ let App = () => {
 
   return (
     <div>
-      todos
+      todo's
       <form onSubmit={addItem}>
         <input type="text" />
       </form>
